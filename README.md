@@ -1,7 +1,7 @@
 
 <div align = "center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Blacky!%22;%22Welcome+to+my+profile!%22" alt="Hello it's .ROCKYIO" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+.ROCKYIO!%22;%22Welcome+to+my+profile!%22" alt="Hello it's .ROCKYIO" />
 
 <a href="https://github.com/NETHNU"><img src="https://github-widgetbox.vercel.app/api/profile?username=NETHNU&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt=".ROCKYIO Profile WidgetBox"></a>
 <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,linux,bash&amp;theme=darkmode" alt="brblacky Skills WidgetBox">
