@@ -29,7 +29,6 @@
 
 <a href="mailto:rockyio207@gmail.com"><img width="75" src="https://media4.giphy.com/media/mHzd6Y8fz1pW1JcfXR/200w.webp?cid=ecf05e47hsrlbsl1zm0w72gijhzk11tg0djsf119lcejgz2w&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="NETHNU on Gmail"></a>
 <a href="https://www.youtube.com/channel/UCwHAxo0mGMu8ypa-kOgnv7g"><img width="75" src="https://raw.githubusercontent.com/NETHNU/NETHNU/main/image/youtube.gif" alt=".ROCKYIO on Youtube"></a>
-<a href="https://twitter.com/br_blacky"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/twitter.gif" alt=".ROCKYIO on Twitter"></a>
 <a href=https://discord.com/users/949908099047768134><img width="75" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt=".ROCKYIO on Discord"></a>
 
 <br>
