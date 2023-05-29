@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+.ROCKYIO!%22;%22Welcome+to+my+profile!%22" alt="Hello it's .ROCKYIO" />
 
 <a href="https://github.com/NETHNU"><img src="https://github-widgetbox.vercel.app/api/profile?username=NETHNU&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt=".ROCKYIO Profile WidgetBox"></a>
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,linux,bash&amp;theme=darkmode" alt="brblacky Skills WidgetBox">
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=c,lua,js,ts,linux,react,bash&amp;theme=darkmode" alt=".ROCKYIO Skills WidgetBox">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%93%88+Stats+for+nerds+%F0%9F%93%88" alt="Stats for nerds" />
 
@@ -12,7 +12,6 @@
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00ff99&logo=linux&color=161c1c" /></a>
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
 <a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00ff99" /></a>
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=161c1c&logoColor=00ff99" /></a>
 
 <div style="display:flex;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NETHNU&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00ff99&title_color=00ff99&border_radius=16" alt=".ROCKYIO GitHub Stats">
