@@ -10,7 +10,7 @@
 
 <a href="https://www.github.com/NETHNU"><img src="https://komarev.com/ghpvc/?username=NETHNU&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt=".ROCKYIO github profile views" /></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00ff99&logo=linux&color=161c1c" /></a>
-<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
+<a href="https://archlinux.org"><img src="https://img.shields.io/badge/OS-Windows-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
 <a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00ff99" /></a>
 
 <div style="display:flex;">
