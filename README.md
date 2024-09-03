@@ -10,8 +10,8 @@
 
 <a href="https://www.github.com/NETHNU"><img src="https://komarev.com/ghpvc/?username=NETHNU&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt=".ROCKYIO github profile views" /></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00ff99&logo=linux&color=161c1c" /></a>
-<a href="https://archlinux.org"><img src="https://img.shields.io/badge/OS-Windows-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
-<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00ff99" /></a>
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/OS-Windows-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VM-visual%20studio-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
 
 <div style="display:flex;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NETHNU&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00ff99&title_color=00ff99&border_radius=16" alt=".ROCKYIO GitHub Stats">
